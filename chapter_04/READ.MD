@@ -11,7 +11,7 @@
     ```
   + 永久性方法  
   首先找到安装MySQL所在的文件中的my.ini，以记事本的方式打开，添加以下设置并保存。  
-  
+  ![配置my.ini](https://github.com/xiaofanxin/image/blob/master/NX4PA_@%60NGNV(L@$Q%60@1KPN.png?raw=true)
 + 数据库连接驱动的方式不适用  
 &emsp;&emsp;将驱动名称改为com.mysql.cj.jdbc.Driver，并添加mysql-connector-java-8.0.15.jar包到lib中。
 
